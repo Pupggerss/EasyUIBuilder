@@ -6,7 +6,7 @@ use refaltor\ui\builders\Root;
 use refaltor\ui\builders\RootBuild;
 use refaltor\ui\elements\Label;
 
-class LabelTest implements RootBuild
+class Test implements RootBuild
 {
 
     public function root(): Root
