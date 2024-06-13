@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf2234c1-b9cf-4299-972b-d394e2ad05b3" name="Default Changelist" comment="Composer">
+      <change beforePath="$PROJECT_DIR$/resources/pack_example/ui/_ui_defs.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pack_example/ui/_ui_defs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pack_example/ui/custom_ui/ui_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pack_example/ui/custom_ui/ui_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pack_example/ui/server_form.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pack_example/ui/server_form.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/refaltor/roots/LabelTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/refaltor/roots/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/refaltor/ui/Entry.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/refaltor/ui/Entry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/start.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2hpLBjlB17N7lwbsvBUloggMwCf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf2234c1-b9cf-4299-972b-d394e2ad05b3" name="Default Changelist" comment="" />
+      <created>1718285940711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718285940711</updated>
+      <workItem from="1718285948562" duration="995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <confirmRemoveEmptyChangelist value="1" />
+    <MESSAGE value="Composer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composer" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>

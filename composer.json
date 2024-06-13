@@ -1,0 +1,7 @@
+{
+  "name": "your-name/easyuibuilder",
+  "description": "EasyUIBuilder Library",
+  "type": "library",
+  "require": {},
+  "minimum-stability": "dev"
+}
